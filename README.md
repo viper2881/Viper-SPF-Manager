@@ -2,7 +2,7 @@
 ![image](https://github.com/viper2881/Viper-SPF-Manager/assets/152634963/3a85e1b9-365b-4877-93ee-d0fc6cc6b552)
 
 
-# ⚔️ Download --> [Click Here](https://kut.sh/viper)
+# ⚔️ Download --> [Click Here](https://github.com/viper2881/Viper-SPF-Manager/releases/download/viper/ViperSpoof.zip)
 
 ## 💎・[Supported Anti-Cheats]
 Unlock Vanguard, BE, EAC & COD games With Permanent HWID Spoofer Software.
